@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+store_data.json
+.env
+venv/
+.venv/
+flask_session/
